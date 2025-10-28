@@ -1,0 +1,17 @@
+dn: dc=corp,dc=example,dc=com
+objectClass: top
+objectClass: dcObject
+objectClass: organization
+o: corp
+dc: corp
+
+dn: cn=admin,dc=corp,dc=example,dc=com
+objectClass: simpleSecurityObject
+objectClass: organizationalRole
+cn: admin
+description: LDAP administrator
+userPassword: {SSHA}MtcWtA2DFYo8siFjKDAK9ryJAss=
+
+dn: ou=People,dc=corp,dc=example,dc=com
+objectClass: organizationalUnit
+ou: People
