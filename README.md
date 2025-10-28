@@ -140,5 +140,4 @@ Should output `200`.
 
 ## 📄 License
 
-*Specify your license here, e.g., MIT
-
+MIT User License
