@@ -136,16 +136,6 @@ Should output `200`.
   ```bash
   ldapwhoami -x -D "cn=admin,dc=corp,dc=example,dc=com" -w 'YourPlainTextPassword'
   ```
-
----
-
-## 🤝 Contributing
-
-1. **Fork** the repository.
-2. Create your **feature branch** (`git checkout -b feature/xyz`).
-3. **Commit** your changes with clear messages.
-4. **Push** to your fork and open a **Pull Request**.
-
 ---
 
 ## 📄 License
