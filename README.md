@@ -1,4 +1,4 @@
-# Linux PAM Authentication App
+# LDAP Containerized
 
 This project provides a containerized OpenLDAP environment on a Rocky Linux 9 host using Podman. It serves as the foundational authentication backend for a Linux PAM-based application, with a flexible directory structure and bulk-user provisioning scripts.
 
